@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GriceAd
-- 👀 I’m interested in learning cybersecurity, college football and the outdoors
+- 👀 I’m interested in learning offensive security along with pentesting skills. 
 - 🌱 I’m currently learning basic cybersecurity fundamentals along with a few certifications in comptia.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
